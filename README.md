@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Parthive shill 
-#### MERN stack developer
+#### MERN STACK DEVELOPER
 ![MERN stack developer](https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1678924800&v=beta&t=QhcpMTV1fHWs-BAsmb-GCAPE0DU7x6D5AhXTBJL1Vf8)
 
 I am a MERN stack web developer. I will always be excited to learn new technologies. I want to also contribute to open source.
