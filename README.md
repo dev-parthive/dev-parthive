@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parthive_shill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthive_shill" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthive shill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthive shill" height="30" width="40" /></a>
-<a href="https://fb.com/parthive shill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parthive shill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parthive-shill-b3a9a122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthive-shill-b3a9a122a/" height="30" width="40" /></a>
+<a href="https://fb.com/parthive.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parthive.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
