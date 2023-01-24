@@ -7,6 +7,7 @@
 
 (https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1680134400&v=beta&t=pdxK_7ToBbhC49Boxd_5O23zQ08ntukfkjZoICl9FRw)
 
+
 - 🔭 I’m currently working on **AirCnC**
 
 - 🌱 I’m currently learning **Redux**
