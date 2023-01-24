@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
+
+<img src="https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1680134400&v=beta&t=pdxK_7ToBbhC49Boxd_5O23zQ08ntukfkjZoICl9FRw" alt="Banner" width="100%" height="400px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-parthive&label=Profile%20views&color=0e75b6&style=flat" alt="dev-parthive" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-parthive" alt="dev-parthive" /></a> </p>
