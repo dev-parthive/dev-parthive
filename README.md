@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer</h3>
 
 
-<img src="https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1680134400&v=beta&t=pdxK_7ToBbhC49Boxd_5O23zQ08ntukfkjZoICl9FRw" alt="Banner" width="100%" height="400px">
+<img src="[https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1680134400&v=beta&t=pdxK_7ToBbhC49Boxd_5O23zQ08ntukfkjZoICl9FRw](https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1687392000&v=beta&t=JO4jvzX7I4MJFLD9EKNSSkYKQTJerllfb1Kt3VScO5c)" alt="Banner" width="100%" height="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-parthive&label=Profile%20views&color=0e75b6&style=flat" alt="dev-parthive" /> </p>
 
