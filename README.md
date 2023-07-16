@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<img src="https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1695254400&v=beta&t=VB_KrB1cgHAndrQP6lPD47l6GzwtEEGkn1UrhNRxb2w" width="80vw" height="300px"/>
+<img src="https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1695254400&v=beta&t=VB_KrB1cgHAndrQP6lPD47l6GzwtEEGkn1UrhNRxb2w" width="57rem" height="300px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-parthive&label=Profile%20views&color=0e75b6&style=flat" alt="dev-parthive" /> </p>
 
