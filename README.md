@@ -1,7 +1,7 @@
+![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp))
+
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
 <h3 align="center">MERN Stack Developer</h3>
-
-<img src="https://media.licdn.com/dms/image/D5616AQExoPjjmSdW8A/profile-displaybackgroundimage-shrink_350_1400/0/1673361884566?e=1700697600&v=beta&t=mDeuCydmEcgM6LSIhheN7DxrgzlUu_hoiLLqZUgGnOs" width="900px" height="300px" margin="auto" display="block"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-parthive&label=Profile%20views&color=0e75b6&style=flat" alt="dev-parthive" /> </p>
 
