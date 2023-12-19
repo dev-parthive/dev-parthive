@@ -1,4 +1,4 @@
- <img  alt="Coding" align="center" width="400" src="https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp">
+ <img  alt="Coding" style="display:block; width:50%; margin-left:auto; margin-right: auto;  "  src="https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp">
 
 
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
