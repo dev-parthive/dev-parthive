@@ -1,4 +1,4 @@
-![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp))
+![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp)
 
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
 <h3 align="center">MERN Stack Developer</h3>
