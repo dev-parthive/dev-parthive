@@ -1,4 +1,4 @@
-<div><img style="display:inline-block" alt="Coding" width="400" src="https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp">
+<div style="width:100%; display:flex; justfy-content:center"> <img style="display:inline-block" alt="Coding" width="400" src="https://i.ibb.co/7K5gqTD/L1-R1tv-I9svk-IWwp-VYr.webp">
 
 </div>
 <h1 align="center">Hi 👋, I'm Parthive shill</h1>
